@@ -1,9 +1,11 @@
 import React from 'react';
 
-export const Rooms = () => {
+const Rooms = () => {
     return (
         <div>
             Hello from Rooms Page
         </div>
     )
 };
+
+export default Rooms;
